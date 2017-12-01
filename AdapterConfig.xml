@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\erapami\Desktop\IOCL\IOCLAdapter.jar</jar>
+  <outfile>C:\Users\erapami\Desktop\IOCL\IOCLAdapter.exe</outfile>
+  <errTitle>JAVA Required To Run Application</errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl>http://java.com/download</downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>true</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>C:\Users\erapami\Desktop\IOCL\iocl_icon.ico</icon>
+  <singleInstance>
+    <mutexName>IOCLAdapter.exe</mutexName>
+    <windowTitle></windowTitle>
+  </singleInstance>
+  <jre>
+    <path></path>
+    <bundledJre64Bit>false</bundledJre64Bit>
+    <bundledJreAsFallback>false</bundledJreAsFallback>
+    <minVersion>1.6.0</minVersion>
+    <maxVersion></maxVersion>
+    <jdkPreference>preferJre</jdkPreference>
+    <runtimeBits>64/32</runtimeBits>
+  </jre>
+  <versionInfo>
+    <fileVersion>1.0.0.0</fileVersion>
+    <txtFileVersion>1.0 Java</txtFileVersion>
+    <fileDescription>IOCLAdapter</fileDescription>
+    <copyright></copyright>
+    <productVersion>1.0.0.0</productVersion>
+    <txtProductVersion>1.0.0.0</txtProductVersion>
+    <productName>IOCLAdapter</productName>
+    <companyName></companyName>
+    <internalName>IOCLAdapter</internalName>
+    <originalFilename>IOCLAdapter.exe</originalFilename>
+  </versionInfo>
+</launch4jConfig>
